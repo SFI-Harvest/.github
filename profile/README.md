@@ -5,6 +5,11 @@ This is a repository for code used during and after field tests for [SFI harvest
 
 
 
+Vehicles used:
+- [LAUV Thor](https://www.ntnu.edu/aur-lab/lauv-thor)
+- [LAUV Roald](https://www.ntnu.edu/aur-lab/lauv-roald)
+- [ASV Grethe](https://www.ntnu.edu/aur-lab/usv-grethe)
+- 
 <!--
 
 **Here are some ideas to get you started:**
