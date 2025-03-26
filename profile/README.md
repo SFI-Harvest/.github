@@ -4,6 +4,12 @@ This is a repository for code used during and after field tests for [SFI harvest
 
 
 
+### Other important repositories
+- [PySilCam](https://github.com/SINTEF/PySilCam): Software for the SilCam used to take pictures of the zooplankton.
+- [PyImc](https://github.com/oysstu/pyimc): Sending IMC messages using python
+- [NTNU Adaptive Sampling Group](https://github.com/NTNU-Adaptive-Sampling-Group): Framework on one way to set up the AUV or ASV for adaptive sampling
+- [MASCOT-NTNU](https://github.com/MASCOT-NTNU): Some code for how to operate the AUV can be used
+
 
 Vehicles used:
 - [LAUV Thor](https://www.ntnu.edu/aur-lab/lauv-thor)
