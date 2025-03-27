@@ -11,7 +11,7 @@ This is a repository for code used during and after field tests for [SFI harvest
 - [MASCOT-NTNU](https://github.com/MASCOT-NTNU): Some code for how to operate the AUV can be used
 
 
-Vehicles used:
+### Vehicles used:
 - [LAUV Thor](https://www.ntnu.edu/aur-lab/lauv-thor)
 - [LAUV Roald](https://www.ntnu.edu/aur-lab/lauv-roald)
 - [ASV Grethe](https://www.ntnu.edu/aur-lab/usv-grethe)
